@@ -2,9 +2,7 @@
 
 ## [The Fundamentals](./The_Fundamentals/The_Fundamentals.md)
 
-```
-Why Tiny Changes Make a Big Difference
-```
+- Why Tiny Changes Make a Big Difference
 
 1. [The Surprising Power of Atomic Habits](./The_Fundamentals/Chapter_1.md)
 2. [How Your Habits Shape Your Identity (and Vice Versa)](./The_Fundamentals/Chapter_2.md)
@@ -12,9 +10,7 @@ Why Tiny Changes Make a Big Difference
 
 ## [The 1st Law](./The_1st_Law/The_1st_Law.md)
 
-```
-Make It Obvious
-```
+- Make It Obvious
 
 4. [The Man Who Didn’t Look Right](./The_1st_Law/Chapter_4.md)
 5. [The Best Way to Start a New Habit](./The_1st_Law/Chapter_5.md)
@@ -23,9 +19,7 @@ Make It Obvious
 
 ## [The 2nd Law](./The_2nd_Law/The_2nd_Law.md)
 
-```
-Make It Attractive
-```
+- Make It Attractive
 
 8. [How to Make a Habit Irresistible](./The_2nd_Law/Chapter_8.md)
 9. [The Role of Family and Friends in Shaping Your Habits](./The_2nd_Law/Chapter_9.md)
@@ -33,9 +27,7 @@ Make It Attractive
 
 ## [The 3rd Law](./The_3rd_Law/The_3rd_Law.md)
 
-```
-Make It Easy
-```
+- Make It Easy
 
 11. [Walk Slowly, but Never Backward](./The_3rd_Law/Chapter_11.md)
 12. [The Law of Least Effort](./The_3rd_Law/Chapter_12.md)
@@ -44,9 +36,7 @@ Make It Easy
 
 ## [The 4th Law](./The_4th_Law/The_4th_Law.md)
 
-```
-Make It Satisfying
-```
+- Make It Satisfying
 
 15. [The Cardinal Rule of Behavior Change](./The_4th_Law/Chapter_15.md)
 16. [How to Stick with Good Habits Every Day](./The_4th_Law/Chapter_16.md)
@@ -54,9 +44,7 @@ Make It Satisfying
 
 ## [Advanced Tactics](./Advanced_Tactics/Advanced_Tactics.md)
 
-```
-How to Go from Being Merely Good to Being Truly Great
-```
+- How to Go from Being Merely Good to Being Truly Great
 
 18. [The Truth About Talent (When Genes Matter and When They Don’t)](./Advanced_Tactics/Chapter_18.md)
 19. [The Goldilocks Rule: How to Stay Motivated in Life and Work](./Advanced_Tactics/Chapter_19.md)
