@@ -31,7 +31,6 @@ Make It Attractive
 9. [The Role of Family and Friends in Shaping Your Habits](./The_2nd_Law/Chapter_9.md)
 10. [How to Find and Fix the Causes of Your Bad Habits](./The_2nd_Law/Chapter_10.md)
 
-
 ## [The 3rd Law](./The_3rd_Law/The_3rd_Law.md)
 
 ```
@@ -42,7 +41,6 @@ Make It Easy
 12. [The Law of Least Effort](./The_3rd_Law/Chapter_12.md)
 13. [How to Stop Procrastinating by Using the Two-Minute Rule](./The_3rd_Law/Chapter_13.md)
 14. [How to Make Good Habits Inevitable and Bad Habits Impossible](./The_3rd_Law/Chapter_14.md)
-
 
 ## [The 4th Law](./The_4th_Law/The_4th_Law.md)
 
