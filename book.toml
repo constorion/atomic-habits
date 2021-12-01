@@ -1,5 +1,5 @@
 [book]
-title = "Constorion mdBook Template Documentation"
+title = "Atomic Habits: Tiny Changes, Remarkable Results"
 authors = ["Rishabh"]
 description = ""
 language = "en"
@@ -14,6 +14,6 @@ edition = "2018"
 
 [output.html]
 default-theme = "rust"
-git-repository-url = "https://github.com/constorion/constorion-mdbook-template"
+git-repository-url = "https://github.com/constorion/atomic-habits"
 git-repository-icon = "fa-github"
 mathjax-support = true
